@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Vengeance",
+  "base_artist": "coldrain",
+  "createdAt": "2026-01-14T03:42:10.857380Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Vengeance",
+      "artist": "Woe, Is Me",
+      "has_synced": true,
+      "path": "select/01_Vengeance_Woe,_Is_Me.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Ride for Vengeance",
+      "artist": "Amon Amarth",
+      "has_synced": true,
+      "path": "select/02_Ride_for_Vengeance_Amon_Amarth.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Ride For Vengeance (Live)",
+      "artist": "Amon Amarth",
+      "has_synced": true,
+      "path": "select/03_Ride_For_Vengeance_(Live)_Amon_Amarth.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Vengeance Is My Name",
+      "artist": "Amon Amarth",
+      "has_synced": true,
+      "path": "select/04_Vengeance_Is_My_Name_Amon_Amarth.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Vengeance and Fashion",
+      "artist": "Electric Six",
+      "has_synced": true,
+      "path": "select/05_Vengeance_and_Fashion_Electric_Six.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "VENGEANCE | VENGEANCE [FEAT. JPEGMAFIA & ZILLAKAMI | JPEGMAF1A + Z1LLAKAM1]",
+      "artist": "Denzel Curry feat. JPEGMAFIA & ZillaKami",
+      "has_synced": true,
+      "path": "select/06_VENGEANCE___VENGEANCE_[FEAT._JPEGMAFIA_&_ZILLAKAMI___JPEGMAF1A_+_Z1LLAKAM1]_Denzel_Curry_feat._JPEGMAFIA_&_ZillaKami.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Vengeance | Vengeance (Feat. JPEGMAFIA & ZillaKami)",
+      "artist": "Denzel Curry",
+      "has_synced": true,
+      "path": "select/07_Vengeance___Vengeance_(Feat._JPEGMAFIA_&_ZillaKami)_Denzel_Curry.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Love With a Vengeance",
+      "artist": "Deborah Harry",
+      "has_synced": false,
+      "path": "select/08_Love_With_a_Vengeance_Deborah_Harry.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Storming Vengeance",
+      "artist": "Bestial Warlust",
+      "has_synced": false,
+      "path": "select/09_Storming_Vengeance_Bestial_Warlust.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Vengeance",
+      "artist": "Venom",
+      "has_synced": true,
+      "path": "select/10_Vengeance_Venom.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Screaming for Vengeance",
+      "artist": "Virgin Steele",
+      "has_synced": false,
+      "path": "select/11_Screaming_for_Vengeance_Virgin_Steele.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "The Blood of Vengeance",
+      "artist": "Virgin Steele",
+      "has_synced": true,
+      "path": "select/12_The_Blood_of_Vengeance_Virgin_Steele.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Vengeance",
+      "artist": "Yngwie Malmsteen",
+      "has_synced": false,
+      "path": "select/13_Vengeance_Yngwie_Malmsteen.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Wings Of Vengeance",
+      "artist": "Virgin Steele",
+      "has_synced": true,
+      "path": "select/14_Wings_Of_Vengeance_Virgin_Steele.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Vengeance",
+      "artist": "coldrain",
+      "has_synced": false,
+      "path": "select/pl_01_Vengeance_coldrain.txt"
+    }
+  ]
+}
